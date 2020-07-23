@@ -1,5 +1,20 @@
 body{
-	background: #fff;
+    padding: 200px;
+    background: #fff;
+    
+}
+.submit-area{
+
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 12px aqua;
+}
+.text-center{
+    color: orchid;
+}
+#transaction-area{
+    display: none;
 }
 .cart{
 	margin: 100px 0;
